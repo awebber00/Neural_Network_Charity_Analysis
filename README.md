@@ -26,3 +26,6 @@ Using bulleted lists and images to support your answers, address the following q
 ## Summary
 
 The accuracy of the model was hindered by a lack of data. More hidden layers could have been added to possibly get a target model performance result closer to the desired percentage of 75%.
+
+
+* Note: All images that are screen shots are mine. All other photos are sourced from Google Images.
